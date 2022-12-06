@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+
+.body{
+
+    background-color: #07183d;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+    /* /*text-align: center; */
+    color: whitesmoke;
+    text-decoration-color: #999999;
+}
+
+
+a {
+    color: #07183d;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+p{
+    color: #ebf6f5;
+
+}
+
+
+
+.homebg{
+    background-image: url('./assets/img/pexels-gradienta-7130571.jpg');
+    background-position: center;
+}
+
+.tableaudashboard {
+            text-align: center;
+        }

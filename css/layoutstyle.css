@@ -4,12 +4,12 @@
     background-image: url(https://images.unsplash.com/photo-1584968124544-d10ce10dd21f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80);
     /*border: 2px solid white;*/
     color: white;
-    text-align: center;
-    line-height: 100px;
+    /*line-height: 100px;*/
     top: 40px;
-    left: 0px;
-    right: 0px;
-    height: 100px;
+    left: 40px;
+    right: 40px;
+    height: 75px;
+    text-align: center;
 }
 
 
@@ -28,9 +28,9 @@
 
 .intro{
     top:140px;
-    left: 0px;
-    right: 0px;
-    height: 250px;
+    left: 5px;
+    right: 5px;
+    bottom: 400px;
     text-size-adjust: 16pt;
     color: #555555;
     background-color: white;
@@ -69,7 +69,7 @@
     color: #999999;
     text-align: center;
     padding-top: 15px;
-    position: fixed;
+    position: relative;
 }
 .subheader {
     float: right;

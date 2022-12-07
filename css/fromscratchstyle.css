@@ -24,6 +24,13 @@ a {
 
 }
 
+.anchor{
+    color: white;
+    text-align: center;
+    text-size-adjust: 24pt;
+}
+
+
 a:hover {
     text-decoration: underline;
 }
@@ -42,6 +49,3 @@ p{
     background-position: center;
 }
 
-.tableaudashboard {
-            text-align: center;
-        }
